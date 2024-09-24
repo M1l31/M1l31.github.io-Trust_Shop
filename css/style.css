@@ -190,3 +190,7 @@ body {
   .maxHeight {
     height: 52rem;
   }
+
+  .espaciado{
+    margin-top: 19px !important;
+  }
